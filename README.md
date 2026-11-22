@@ -15,3 +15,7 @@ OpenHina 是个人制作的非官方、非商业粉丝归档。当前发布版�
 ## 声明
 
 本项目与羊宫妃那本人、所属事务所及 X 平台无官方关联。内容相关权利归各自权利人所有。请阅读 [完整免责声明](DISCLAIMER.md)。
+
+## 反馈
+
+如有纠正、补充或更新信息，欢迎到 [GitHub Issues](https://github.com/wjx11111-11/OpenHina/issues) 反馈。
